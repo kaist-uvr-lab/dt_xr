@@ -1,4 +1,8 @@
 # tutorial
+dependencies)
+conda install ujson, numpy, requests
+conda install conda-forge::opencv
+
 example argument)
 --RKeywords=test2
 --SKeywords=KITTI
